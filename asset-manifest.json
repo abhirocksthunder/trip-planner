@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3a0eb6d.css",
+    "main.js": "/static/js/main.5e298616.js",
+    "static/js/496.dd44ed5b.chunk.js": "/static/js/496.dd44ed5b.chunk.js",
+    "static/media/stay_booker_logo.png": "/static/media/stay_booker_logo.68e2a051e0ccca0cfc0d.png",
+    "index.html": "/index.html",
+    "main.b3a0eb6d.css.map": "/static/css/main.b3a0eb6d.css.map",
+    "main.5e298616.js.map": "/static/js/main.5e298616.js.map",
+    "496.dd44ed5b.chunk.js.map": "/static/js/496.dd44ed5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a0eb6d.css",
+    "static/js/main.5e298616.js"
+  ]
+}
