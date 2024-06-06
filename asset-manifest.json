@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/trip-planner/static/css/main.b3a0eb6d.css",
-    "main.js": "/trip-planner/static/js/main.e718313e.js",
+    "main.js": "/trip-planner/static/js/main.39e6ca74.js",
     "static/js/496.dd44ed5b.chunk.js": "/trip-planner/static/js/496.dd44ed5b.chunk.js",
     "static/media/stay_booker_logo.png": "/trip-planner/static/media/stay_booker_logo.68e2a051e0ccca0cfc0d.png",
     "index.html": "/trip-planner/index.html",
     "main.b3a0eb6d.css.map": "/trip-planner/static/css/main.b3a0eb6d.css.map",
-    "main.e718313e.js.map": "/trip-planner/static/js/main.e718313e.js.map",
+    "main.39e6ca74.js.map": "/trip-planner/static/js/main.39e6ca74.js.map",
     "496.dd44ed5b.chunk.js.map": "/trip-planner/static/js/496.dd44ed5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3a0eb6d.css",
-    "static/js/main.e718313e.js"
+    "static/js/main.39e6ca74.js"
   ]
 }
